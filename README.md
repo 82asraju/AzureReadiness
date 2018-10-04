@@ -3,6 +3,12 @@ The purpose of this repo is to serve as a curated list of readiness resources on
 
 Feel free to contribute !
 
+## Focussed List
+* [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/) - The latest focal point for Microsoft Learning content.  Good for #Developers #Generalists and #Data Scientists
+
+
+## Full List
+
 ### Free training and courses
 
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/training/learning-paths/) - Follow a guided learning path
