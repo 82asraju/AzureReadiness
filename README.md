@@ -55,8 +55,7 @@ Start watching as a beginner and finish up as the master
 * [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/Araffe/azure-security-lab)
 * [Azure Management and Monitoring Lab](https://github.com/Araffe/Azure-Monitoring-Lab)
 * [Azure Virtual Data Centre Lab](https://github.com/Araffe/vdc-networking-lab) - This lab guide allows the user to deploy and test a complete Microsoft Azure Virtual Data Centre (VDC) environment
-* [Azure DevCamp](https://github.com/Azure-Readiness/DevCamp/)
-* [Intertech Azure Training](https://github.com/mehmetkut/intertech-azure-training)
+
 
 ### Azure Guides
 
