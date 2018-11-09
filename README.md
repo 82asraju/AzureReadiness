@@ -37,7 +37,6 @@ Start watching as a beginner and finish up as the master
 
 * [Azure Learning in Linkedin](https://www.linkedin.com/learning/search?keywords=Azure&u=3322) - Lots of Azure courses as well as AWS and Google also. Good offline app as part of the LinkedIn Mobile App - learn on the go
 * [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
-* [Azure Hands-on Labs](https://azure.microsoft.com/pt-br/training/hands-on-labs/) - Azure Hands-on Labs
 * [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
 * [Azure Essentials](https://www.microsoft.com/pt-br/azureessentials) - Azure initial steps training
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
