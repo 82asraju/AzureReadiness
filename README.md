@@ -29,6 +29,8 @@ Start watching as a beginner and finish up as the master
    * [Windows Virtual Desktop on Azure](https://aka.ms/Ignite2018/WindowsVirtualDesktop)
    
  * [Ignite Book of Updates](https://aka.ms/ignite-envision2018) - Summary paper of all technical updates annouced at Microsoft Ignite 18 - with URL links
+ 
+ * [Ignite Session Download Tool](https://gallery.technet.microsoft.com/Ignite-2016-Slidedeck-and-296df316) - A Great way to bulk download videos and slide decks from Ignite is through this PowerShell script
 
 
 ## Full List
