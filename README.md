@@ -99,10 +99,10 @@ Covers recent key news and an in-depth topic each week
 * [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
 * [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
 
-### Video Resources, Weekly Shows and Meetings and Podcasts
+### Events, Shows and Meetings
 
 * [Azure Power Lunch](http://azurepowerlunch.com/) -  Join experts from Microsoft, your peers and partners for an Azure learning session series – targeted at helping our customers and partners derive the most value from Azure. In each 30-minutes weekly session, this technical series will focus on keeping you up-to-date with new and appetizing updates to Azure cloud platform
-
+* [Microsoft Technical Events](https://www.microsoft.com/en-gb/developers/events/) - Curated list of all up and coming Microsoft Events, Including Azure Bitesize Learning series, ran by our very own Simon Thurman. 
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
 * [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
 * [Microsoft Mechanics on Channel9](https://channel9.msdn.com/Shows/Mechanics)
