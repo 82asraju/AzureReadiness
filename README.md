@@ -104,6 +104,13 @@ Covers recent key news and an in-depth topic each week
 * [DevOps @ Microsoft](https://www.visualstudio.com/learn/devopsmsft-overview/) - How we continue to adopt DevOps at Microsoft
 * [Microsoft Visual Studio DevOps Hands-On-Labs](https://almvm.azurewebsites.net/)
 
+### Kubernetes
+
+* [Lachlan Evenson YouTube](https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ) - Lachie Evensen (Principle PM for Azure Container Services) YouTube Channel
+* [TGI Kubernetes by Heptio](https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos) - Huge amount of videos on Kubernetes
+* [Hands-On:Kubernetes BootCamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html) - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal.
+* [Katacoda Labs](https://katacoda.com/courses/kubernetes) - Learn Kubernetes using Interactive Browser-Based Scenarios
+
 
 ### Architecture
 
@@ -131,5 +138,6 @@ A list of usefull links explaining about the common doubts related to Azure Free
 ### Other Curated Lists
 
 * [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) 
 
 
