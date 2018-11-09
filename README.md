@@ -80,6 +80,8 @@ Covers recent key news and an in-depth topic each week
 * [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
 * [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
 * [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf) - Understanding of Azure Datacentres, Security and Isolation
+* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/) - a book of policy recommendations for governments, industry and civil society to help ensure that the opportunities of technology are evenly shared, and that challenges facing society are identified early and practical solutions applied
+* [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf) - This white paper provides details on the networking functions of Azure. It also describes how customers can use the native security features in Azure to help protect their information assets.
 
 
 ### Events, Shows and Meetings
@@ -115,10 +117,9 @@ Covers recent key news and an in-depth topic each week
 
 
 ### Useful PDFs
-* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/)
-* [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf)
-* [Defending the new perimeter](https://rmartins.blob.core.windows.net/documentos/DefendingTheNewPerimeter.pdf)
-* [Microsoft Azure Security Infrastructure](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityInfrastructure.pdf)
+
+
+
 * [Microsoft Azure Security Response in the cloud](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityResponseinthecloud.pdf)
 * [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
 * [Questions to Ask Your Cloud Provider](http://download.microsoft.com/download/F/7/8/F7893E04-633E-45B1-A7F6-CF043715DA5A/Trusted_Cloud_Questions_to_ask_your_Cloud_Provider_EN_US.pdf)
