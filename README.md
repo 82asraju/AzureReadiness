@@ -67,7 +67,7 @@ Covers recent key news and an in-depth topic each week
 * [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM) - Awesome content and handsonlabs about Azure Resource Manager.
 
 
-### Azure Guides
+### Azure Guides and Papers
 
 * [Understanding Azure: A guide for developers](http://download.microsoft.com/download/2/C/F/2CF7401A-B9D7-4828-917D-199E0896BFE5/Azure_Developer_Guide_eBook.pdf)
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf) - Get started guide for Azure IT operators
@@ -78,6 +78,8 @@ Covers recent key news and an in-depth topic each week
 * [Azure DevTest Labs Prescriptive Adoption Guidance](https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf)
 * [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
 * [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
+* [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
+* [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf) - Understanding of Azure Datacentres, Security and Isolation
 
 
 ### Events, Shows and Meetings
@@ -110,17 +112,10 @@ Covers recent key news and an in-depth topic each week
 * [Microsoft Azure for AWS Experts - EDX Course](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/) - EDX Free Training
 * [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-* [(Part 1) Microsoft Azure for Amazon AWS Cloud Professionals: Getting Started](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1667)
-* [(Part 2) Microsoft Azure for Amazon AWS Cloud Professionals: Networking](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1668)
-* [(Part 3) Microsoft Azure for Amazon AWS Cloud Professionals: Storage](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1669)
-* [(Part 4) Microsoft Azure for Amazon AWS Cloud Professionals: Virtual Machines, VM Scale Sets & Containers](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1670)
-* [(Part 5) Microsoft Azure for Amazon AWS Cloud Professionals: Migrating to Azure](https://channel9.msdn.com/Shows/TechNet+Radio/TNR1671)
+
 
 ### Useful PDFs
-* [From Agile to DevOps at Microsoft Developer Division e-book ](https://www.microsoft.com/en-us/download/details.aspx?id=46920)
-* [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
-* [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf)
-* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/_media/downloads/a-cloud-for-global-good-english.pdf)
+* [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/)
 * [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf)
 * [Defending the new perimeter](https://rmartins.blob.core.windows.net/documentos/DefendingTheNewPerimeter.pdf)
 * [Microsoft Azure Security Infrastructure](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityInfrastructure.pdf)
