@@ -28,7 +28,7 @@ Start watching as a beginner and finish up as the master
    * [Azure Storage](https://aka.ms/Ignite2018/AzureStorage)
    * [Windows Virtual Desktop on Azure](https://aka.ms/Ignite2018/WindowsVirtualDesktop)
    
-   
+ * [Ignite Book of Updates](https://aka.ms/ignite-envision2018) - Summary paper of all technical updates annouced at Microsoft Ignite 18 - with URL links
 
 
 ## Full List
