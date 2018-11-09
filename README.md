@@ -6,6 +6,8 @@ Feel free to contribute !
 ## Focussed List
 * [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/) - The latest focal point for Microsoft Learning content.  Good for *Developers* *Generalists* and *Data Scientists*
 * [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Deep technical tracks which require a lot of effort.  Fantastic, comprehensive content - but not for the faint hearted. *Developers* *Generalists* and *Data Scientists*
+* [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
+Start watching as a beginner and finish up as the master
 
 
 ## Full List
@@ -13,8 +15,6 @@ Feel free to contribute !
 ### Free training and courses
 
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/training/learning-paths/) - Follow a guided learning path
-* [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
-Start watching as a beginner and finish up as the master
 * [Azure Hands-on Labs](https://azure.microsoft.com/pt-br/training/hands-on-labs/) - Azure Hands-on Labs
 * [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) - Microsoft Hands-on Labs
 * [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
