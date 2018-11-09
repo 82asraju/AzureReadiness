@@ -40,7 +40,6 @@ Start watching as a beginner and finish up as the master
 * [Microsoft Self Passed Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs) - Microsoft Self Passed Labs
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
-* [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps
 * [Azure Certification and Trainings](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Azure Certification and Trainings
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
