@@ -44,7 +44,7 @@ Start watching as a beginner and finish up as the master
 * [Microsoft Virtual Academy (Azure Courses)](https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033)
 * [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
-* [Databricks on Azure - Academy](https://academy.databricks.com) - extensive set of notebooks on individual aspects of Apache Spark (currently focused on dev/data engineer). You can learn the best practices and get to know Spark at depth.
+* [Databricks Academy on Azure](https://academy.databricks.com) - extensive set of notebooks on individual aspects of Apache Spark (currently focused on dev/data engineer). You can learn the best practices and get to know Spark at depth.
 
 ### Azure Workshops | Demos | Labs 
 
