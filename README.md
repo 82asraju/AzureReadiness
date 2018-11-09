@@ -41,7 +41,6 @@ Start watching as a beginner and finish up as the master
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
 * [Azure Certification and Trainings](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Azure Certification and Trainings
-* [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [Microsoft Virtual Academy (Azure Courses)](https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033)
 * [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
