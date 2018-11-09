@@ -49,10 +49,8 @@ Start watching as a beginner and finish up as the master
 ### Azure Workshops | Demos | Labs 
 
 * [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
-* [Dozen of Azure Workshops](https://azurecitadel.github.io/workshops/)
-* [Dozen of Azure Demos](https://azurecitadel.github.io/demos/)
-* [Dozen of Azure Labs](https://azurecitadel.github.io/labs/)
-* [Azure CAT](https://github.com/AzureCAT-GSI)
+* [Azure Citadel](https://azurecitadel.github.io/) - Workshops, Demos and Lab content brought to you by our home grown Microsoft CSA community in the UK
+* [Azure CAT](https://github.com/AzureCAT-GSI) - Github Repo of the Microsoft Customer Advisory Team
 * [Azure enablement with Terraform and focuses on core basics](https://github.com/FraserPol/azure-workshop-training)
 * [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/Araffe/azure-security-lab)
 * [Azure Management and Monitoring Lab](https://github.com/Araffe/Azure-Monitoring-Lab)
