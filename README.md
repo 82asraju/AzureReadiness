@@ -80,12 +80,8 @@ Covers recent key news and an in-depth topic each week
 
 ### Awesome resources
 
-* [Azure Networking Lab](https://github.com/erjosito/azure-networking-lab) - Lab resources about Azure Networking
 * [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM) - Awesome content and handsonlabs about Azure Resource Manager.
 * [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates) - Github Repo with usefull Azure templates
-* [Microsoft Tech](https://www.microsofttech.com.br/) - Microsoft Tech Blog (PT-BR)
-* [Azure Learning Paths](https://azure.microsoft.com/en-us/documentation/learning-paths/) - Learning paths to guide yourself through the documentation
-* [Azure Readiness Repo](https://github.com/Azure-Readiness) - Github Repo with labs, samples and demos
 * [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome repo with several topics on Azure Advanved Analytics
 * [Azure DevTestLabs artifacts](https://github.com/Azure/azure-devtestlab) - Github repo with devtestlabs artifacts
 * [Azure OpenSource Labs](https://github.com/Microsoft-OpenSource-Labs) - Github repo with opensource labs on Azure
