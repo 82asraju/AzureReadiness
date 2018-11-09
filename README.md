@@ -11,7 +11,7 @@ Start watching as a beginner and finish up as the master
 
 ## Ignite 2018
 
-https://aka.ms/Ignite2018.
+https://aka.ms/Ignite2018
 https://aka.ms/Ignite2018/AzureGovernance
 
 ## Full List
