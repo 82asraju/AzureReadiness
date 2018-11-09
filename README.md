@@ -51,6 +51,7 @@ Start watching as a beginner and finish up as the master
 ### Weekly Updates
 * [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
 * [Azure Notes](https://azurenotes.tech/) - All Azure annoucements with links
+* [Azure Updates](https://azure.microsoft.com/en-gb/updates/) - Learn about important Azure product updates, roadmap and announcements. Subscribe to notifications to stay informed
 * [The Azure Podcast](http://azpodcast.azurewebsites.net/) - Brilliant, well-established weekly podcast series ran by Microsofties. 
 Covers recent key news and an in-depth topic each week
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights
