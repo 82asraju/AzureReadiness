@@ -12,6 +12,7 @@ Start watching as a beginner and finish up as the master
 ## Ignite 2018
 
 * [Ignite Home] (https://aka.ms/Ignite2018) - Indepth video sessions from September 2018 Ignite Conference. Latest feature annoucements.  See more detailed curated list below for relevant capabilities. 
+
 * [Azure Governance] (https://aka.ms/Ignite2018/AzureGovernance)
 * [IaaS] (https://aka.ms/Ignite2018/AzureIaaS 
 * [Azure Integration] (https://aka.ms/Ignite2018/AzureIntegration 
