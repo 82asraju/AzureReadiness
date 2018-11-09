@@ -108,8 +108,9 @@ Covers recent key news and an in-depth topic each week
 
 * [Lachlan Evenson YouTube](https://www.youtube.com/channel/UCC5NsnXM2lE6kKfJKdQgsRQ) - Lachie Evensen (Principle PM for Azure Container Services) YouTube Channel
 * [TGI Kubernetes by Heptio](https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos) - Huge amount of videos on Kubernetes
-* [Hands-On:Kubernetes BootCamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html) - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal.
+* [Hands-On:Kubernetes BootCamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html) - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal
 * [Katacoda Labs](https://katacoda.com/courses/kubernetes) - Learn Kubernetes using Interactive Browser-Based Scenarios
+* [Microsoft LEarning Series on Kubernetes](https://aka.ms/aksprep) - Good comprehensive learning series. Appropriate for beginners
 
 
 ### Architecture
