@@ -27,8 +27,8 @@ Start watching as a beginner and finish up as the master
    * [Serverless](https://aka.ms/Ignite2018/AzureServerless)
    * [Azure Storage](https://aka.ms/Ignite2018/AzureStorage)
    * [Windows Virtual Desktop on Azure](https://aka.ms/Ignite2018/WindowsVirtualDesktop)
-
-
+   
+   
 
 
 ## Full List
