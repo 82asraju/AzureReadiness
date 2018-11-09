@@ -11,8 +11,8 @@ Start watching as a beginner and finish up as the master
 
 ## Ignite 2018
 
-https://aka.ms/Ignite2018
-https://aka.ms/Ignite2018/AzureGovernance
+[https://aka.ms/Ignite2018]
+
 
 ## Full List
 
@@ -147,11 +147,5 @@ A list of usefull links explaining about the common doubts related to Azure Free
 * [https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account)
 
 
----
 
-# Let's keep in touch
-
-| Name | Links |
-| ------ | ------ |
-| Ricardo Martins | [http://ricardomartins.com.br](http://www.ricardomartins.com.br) - [@ricardommartins](http://twitter.com/ricardommartins) |
 
