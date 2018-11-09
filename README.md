@@ -35,6 +35,8 @@ Start watching as a beginner and finish up as the master
 
 ### Free training and courses
 
+* [Azure Learning in Linkedin](https://www.linkedin.com/learning/search?keywords=Azure&u=3322) - Lots of Azure courses as well as AWS and Google also. Good offline app as part of the LinkedIn Mobile App - learn on the go
+* [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
 * [Azure Learning Paths](https://azure.microsoft.com/en-us/training/learning-paths/) - Follow a guided learning path
 * [Azure Hands-on Labs](https://azure.microsoft.com/pt-br/training/hands-on-labs/) - Azure Hands-on Labs
 * [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) - Microsoft Hands-on Labs
@@ -43,14 +45,13 @@ Start watching as a beginner and finish up as the master
 * [Learn Analytics](https://learnanalytics.microsoft.com/) - Data and AI Training
 * [AI School](https://aischool.microsoft.com/) - Dive in and learn how to start building intelligence into your solutions with the Microsoft AI platform
 * [Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/) - Tracks for your professional development on Data Science, BigData, Frontend Development, Cloud Administration and DevOps
-* [Azure Learn](https://docs.microsoft.com/en-us/learn/azure/) - Unlock your cloud skills in minutes
-* [Azure Free Trainings at Pluralsight](http://pluralsight.com/partners/microsoft/azure) - Free trainings for Azure from Pluralsight and Microsoft
 * [Azure Certification and Trainings](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Azure Certification and Trainings
 * [EDX](https://www.edx.org/course?search_query=Azure) - Azure at EDX
 * [CloudAcademy](https://cloudacademy.com/library/?q=Azure) - Azure at CloudAcademy
 * [Microsoft Virtual Academy (Azure Courses)](https://mva.microsoft.com/product-training/microsoft-azure#!lang=1033)
 * [Microsoft Virtual Academy (Visual Studio Courses)](https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1033)
 * [Azure Courses on Cloud Academy](https://cloudacademy.com/library/?q=Azure)
+* [Databricks on Azure - Academy](https://academy.databricks.com) - extensive set of notebooks on individual aspects of Apache Spark (currently focused on dev/data engineer). You can learn the best practices and get to know Spark at depth.
 
 ### Azure Workshops | Demos | Labs 
 
@@ -102,8 +103,13 @@ Start watching as a beginner and finish up as the master
 * [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
 * [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
 
-### Video Resources
+### Video Resources, Weekly Shows and Meetings and Podcasts
 
+* [Azure Power Lunch](http://azurepowerlunch.com/) -  Join experts from Microsoft, your peers and partners for an Azure learning session series – targeted at helping our customers and partners derive the most value from Azure. In each 30-minutes weekly session, this technical series will focus on keeping you up-to-date with new and appetizing updates to Azure cloud platform
+* [The Azure Podcast](http://azpodcast.azurewebsites.net/) - Brilliant, well-established weekly podcast series ran by Microsofties. 
+Covers recent key news and an in-depth topic each week
+* [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights
+* [Azure Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Corey Sanders answers your questions about Microsoft Azure - Virtual Machines, Web Sites, Mobile Services, Dev/Test etc. If you have a question, Corey will find the answer!
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
 * [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
 * [Microsoft Mechanics on Channel9](https://channel9.msdn.com/Shows/Mechanics)
