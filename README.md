@@ -13,20 +13,22 @@ Start watching as a beginner and finish up as the master
 
 * [Ignite Home](https://aka.ms/Ignite2018) - Indepth video sessions from September 2018 Ignite Conference. Latest feature annoucements.  See more detailed curated list below for relevant capabilities. 
 
-  * [Azure Governance](https://aka.ms/Ignite2018/AzureGovernance)
-* [IaaS](https://aka.ms/Ignite2018/AzureIaaS)
-* [Azure Integration](https://aka.ms/Ignite2018/AzureIntegration)
-* [Azure Kubernetes](https://aka.ms/Ignite2018/AzureKubernetes)
-* [Azure Migration](https://aka.ms/Ignite2018/AzureMigration)
-* [Azure Monitor](https://aka.ms/Ignite2018/AzureMonitor)
-* [Azure NetApp Files](https://aka.ms/Ignite2018/AzureNetAppFiles)
-* [Azure Networking](https://aka.ms/Ignite2018/AzureNetworking)
-* [Azure Operations](https://aka.ms/Ignite2018/AzureOperations)
-* [SAP on Azure](https://aka.ms/Ignite2018/AzureSAP)
-* [Azure Security and Monitoring](https://aka.ms/Ignite2018/AzureSecurityAndManagement)
-* [Serverless](https://aka.ms/Ignite2018/AzureServerless)
-* [Azure Storage](https://aka.ms/Ignite2018/AzureStorage)
-* [Windows Virtual Desktop on Azure](https://aka.ms/Ignite2018/WindowsVirtualDesktop)
+   * [Azure Governance](https://aka.ms/Ignite2018/AzureGovernance)
+   * [IaaS](https://aka.ms/Ignite2018/AzureIaaS)
+   * [Azure Integration](https://aka.ms/Ignite2018/AzureIntegration)
+   * [Azure Kubernetes](https://aka.ms/Ignite2018/AzureKubernetes)
+   * [Azure Migration](https://aka.ms/Ignite2018/AzureMigration)
+   * [Azure Monitor](https://aka.ms/Ignite2018/AzureMonitor)
+   * [Azure NetApp Files](https://aka.ms/Ignite2018/AzureNetAppFiles)
+   * [Azure Networking](https://aka.ms/Ignite2018/AzureNetworking)
+   * [Azure Operations](https://aka.ms/Ignite2018/AzureOperations)
+   * [SAP on Azure](https://aka.ms/Ignite2018/AzureSAP)
+   * [Azure Security and Monitoring](https://aka.ms/Ignite2018/AzureSecurityAndManagement)
+   * [Serverless](https://aka.ms/Ignite2018/AzureServerless)
+   * [Azure Storage](https://aka.ms/Ignite2018/AzureStorage)
+   * [Windows Virtual Desktop on Azure](https://aka.ms/Ignite2018/WindowsVirtualDesktop)
+
+
 
 
 ## Full List
