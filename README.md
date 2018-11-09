@@ -55,8 +55,6 @@ Covers recent key news and an in-depth topic each week
 * [Azure Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Corey Sanders answers your questions about Microsoft Azure - Virtual Machines, Web Sites, Mobile Services, Dev/Test etc. If you have a question, Corey will find the answer!
 
 
-
-
 ### Azure Workshops | Demos | Labs | Deploy
 
 * [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
@@ -88,19 +86,15 @@ Covers recent key news and an in-depth topic each week
 * [Microsoft Technical Events](https://www.microsoft.com/en-gb/developers/events/) - Curated list of all up and coming Microsoft Events, Including Azure Bitesize Learning series, ran by our very own Simon Thurman. 
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
 * [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
-* [Microsoft Mechanics on Channel9](https://channel9.msdn.com/Shows/Mechanics)
-* [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - 
+* [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics
 
 ### DevOps
 
 * [DevOps Resource Center](https://docs.microsoft.com/en-us/azure/devops/) -  Resources on learning DevOps practices, Git version control, Agile methods, how we work with DevOps at Microsoft, and how you can assess your own DevOps progression.
-* [VSTS Docs](https://docs.microsoft.com/en-us/vsts/index) - Everything that you've ever wanted to know about DevOps and VSTS
-* [Visual Studio - DevOps](https://www.visualstudio.com/devops/) - Your guide through the theory and implementation of DevOps
 * [Microsoft DevOps Blog](https://blogs.msdn.microsoft.com/devops/) - Microsoft DevOps Blog
 * [DevOps @ Microsoft](https://www.visualstudio.com/learn/devopsmsft-overview/) - How we continue to adopt DevOps at Microsoft
 * [Microsoft Visual Studio DevOps Hands-On-Labs](https://almvm.azurewebsites.net/)
-* [SmartHotel360](https://github.com/Microsoft/SmartHotel360) - Reference Sample and Azure Backend
-* [HealthClinic.biz](https://github.com/Microsoft/HealthClinic.biz) - End-to-end demo scenario based on a fictitious B2B and multitenant system
+
 
 ### Architecture
 
