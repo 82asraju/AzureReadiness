@@ -82,6 +82,9 @@ Covers recent key news and an in-depth topic each week
 * [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf) - Understanding of Azure Datacentres, Security and Isolation
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/) - a book of policy recommendations for governments, industry and civil society to help ensure that the opportunities of technology are evenly shared, and that challenges facing society are identified early and practical solutions applied
 * [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf) - This white paper provides details on the networking functions of Azure. It also describes how customers can use the native security features in Azure to help protect their information assets.
+* [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
+* [Modern Service Management for Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf)
+* [Enterprise Cloud Strategy](https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf) - Here, you’ll see what makes the cloud so compelling to enterprises; which applications you should consider as you begin your cloud journey; how your organization will change
 
 
 ### Events, Shows and Meetings
@@ -114,18 +117,6 @@ Covers recent key news and an in-depth topic each week
 * [Microsoft Azure for AWS Experts - EDX Course](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE213x+2017_T3/) - EDX Free Training
 * [Azure for AWS Professionals](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/)
 * [AWS to Azure services comparison](https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services)
-
-
-### Useful PDFs
-
-
-
-* [Microsoft Azure Security Response in the cloud](https://rmartins.blob.core.windows.net/documentos/MicrosoftAzureSecurityResponseinthecloud.pdf)
-* [Microsoft Cloud Red Teaming](https://rmartins.blob.core.windows.net/documentos/MicrosoftCloudRedTeaming.pdf)
-* [Questions to Ask Your Cloud Provider](http://download.microsoft.com/download/F/7/8/F7893E04-633E-45B1-A7F6-CF043715DA5A/Trusted_Cloud_Questions_to_ask_your_Cloud_Provider_EN_US.pdf)
-* [Microsoft Azure & AWS: Cloud Service Map](aka.ms/awsazureguide)
-* [Modern Service Management for Azure](https://azure.microsoft.com/mediahandler/files/resourcefiles/b6ea597e-2ca2-4bfb-9adc-c8d7292bc81a/Modern%20Service%20Management%20for%20Azure%20v1.1.pdf)
-* [Enterprise Cloud Strategy](https://info.microsoft.com/rs/157-GQE-382/images/EN-US-CNTNT-ebook-Enterprise_Cloud_Strategy_2nd_Edition_AzureInfrastructure.pdf)
 
 ### Azure Free Account
 
