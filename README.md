@@ -47,6 +47,8 @@ Start watching as a beginner and finish up as the master
 * [Databricks Academy on Azure](https://academy.databricks.com) - extensive set of notebooks on individual aspects of Apache Spark (currently focused on dev/data engineer). You can learn the best practices and get to know Spark at depth.
 
 ### Weekly Updates
+* [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
+* [Azure Notes](https://azurenotes.tech/) - All Azure annoucements with links
 * [The Azure Podcast](http://azpodcast.azurewebsites.net/) - Brilliant, well-established weekly podcast series ran by Microsofties. 
 Covers recent key news and an in-depth topic each week
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights
@@ -55,7 +57,7 @@ Covers recent key news and an in-depth topic each week
 
 
 
-### Azure Workshops | Demos | Labs 
+### Azure Workshops | Demos | Labs | Deploy
 
 * [Terraform on Azure](https://azurecitadel.github.io/workshops/terraform/)
 * [Azure enablement with Terraform and focuses on core basics](https://github.com/FraserPol/azure-workshop-training) - repository contains slide decks and supporting code for teaching Terraform on Azure
@@ -64,6 +66,7 @@ Covers recent key news and an in-depth topic each week
 * [Securing Azure Infrastructure - Hands on Lab Guide](https://github.com/Araffe/azure-security-lab)
 * [Azure Management and Monitoring Lab](https://github.com/Araffe/Azure-Monitoring-Lab)
 * [Azure Virtual Data Centre Lab](https://github.com/Araffe/vdc-networking-lab) - This lab guide allows the user to deploy and test a complete Microsoft Azure Virtual Data Centre (VDC) environment
+* [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM) - Awesome content and handsonlabs about Azure Resource Manager.
 
 
 ### Azure Guides
@@ -75,25 +78,9 @@ Covers recent key news and an in-depth topic each week
 * [Azure IaaS Operations Guidance](http://aka.ms/Azure/IaaSOpsGuide) 
 * [Strategies to realizing Cost Savings in Azure](https://blogs.msdn.microsoft.com/girishp/2018/02/22/strategies-to-realizing-cost-savings-in-azure/)
 * [Azure DevTest Labs Prescriptive Adoption Guidance](https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf)
-
-
-
-### Awesome resources
-
-* [Azure Resource Manager: Demystified](https://github.com/krnese/AzureDeploy/tree/master/ARM) - Awesome content and handsonlabs about Azure Resource Manager.
-* [Azure QuickStart Templates](https://github.com/Azure/azure-quickstart-templates) - Github Repo with usefull Azure templates
-* [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome repo with several topics on Azure Advanved Analytics
-* [Azure DevTestLabs artifacts](https://github.com/Azure/azure-devtestlab) - Github repo with devtestlabs artifacts
-* [Azure OpenSource Labs](https://github.com/Microsoft-OpenSource-Labs) - Github repo with opensource labs on Azure
-* [Resource Manager Template Reference](https://azure.microsoft.com/en-us/blog/azure-resource-manager-template-reference-now-available/) - References to ARM Templates
-* [ITProCareerCenter](https://www.itprocareercenter.com) - IT Pro Career Center from Microsoft
-* [ITProCloudEssentials](https://www.itprocloudessentials.com) - IT Pro Cloud Essentials from Microsoft
-* [Azure Notes](https://azurenotes.tech/) - A place to know about new features from all Azure Services
-* [Azure Documentation Updates](http://azuredocsupdates.azurewebsites.net/) - A community project to share the status about azure documentation updates
-* [Last week in Azure](https://azure.microsoft.com/pt-br/blog/topics/last-week-in-azure/) - Keep current on what's happening in Azure, including what's now in preview, generally available, news & updates, and more.
-* [Governance in Azure](https://docs.microsoft.com/en-us/azure/security/governance-in-azure) - Informations about Azure Governance
 * [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
 * [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
+
 
 ### Events, Shows and Meetings
 
@@ -158,6 +145,8 @@ A list of usefull links explaining about the common doubts related to Azure Free
 * [https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account)
 * [https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-avoid-charges-free-account)
 
+### Other Curated Lists
 
+* [Awesome Azure Advanced Analytics](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics) - Awesome big data and advanced analytics resources for the Microsoft Azure Cloud
 
 
