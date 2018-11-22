@@ -82,7 +82,7 @@ Covers recent key news and an in-depth topic each week
 * [Azure DevTest Labs Prescriptive Adoption Guidance](https://github.com/Azure/azure-devtestlab/blob/master/Documentation/Getting%20Started%20with%20DevTest%20Labs.pdf)
 * [Best practices Using Azure Resource Manager Templates](https://blogs.msdn.microsoft.com/mvpawardprogram/2018/05/01/azure-resource-manager/) - Best practices Using Azure Resource Manager Templates
 * [Azure Availability Zones Quick Tour and Guide](https://blogs.msdn.microsoft.com/igorpag/2018/05/03/azure-availability-zones-quick-tour-and-guide/) - Azure Availability Zones Quick Tour and Guide
-* [Azure Stragedy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
+* [Azure Strategy and Implementation Guide](https://azure.microsoft.com/en-us/resources/azure-strategy-and-implementation-guide/)
 * [Azure Virtual Data Center](https://azure.microsoft.com/mediahandler/files/resourcefiles/1ad643b8-73f7-43f6-b05a-8e160168f9df/Azure-Virtual-Datacenter.pdf) - Understanding of Azure Datacentres, Security and Isolation
 * [A Cloud for a Global Good](https://news.microsoft.com/cloudforgood/) - a book of policy recommendations for governments, industry and civil society to help ensure that the opportunities of technology are evenly shared, and that challenges facing society are identified early and practical solutions applied
 * [Azure Network Security](https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-network-security/Azure%20Network%20Security.pdf) - This white paper provides details on the networking functions of Azure. It also describes how customers can use the native security features in Azure to help protect their information assets.
@@ -95,10 +95,11 @@ Covers recent key news and an in-depth topic each week
 
 * [Azure Power Lunch](http://azurepowerlunch.com/) -  Join experts from Microsoft, your peers and partners for an Azure learning session series – targeted at helping our customers and partners derive the most value from Azure. In each 30-minutes weekly session, this technical series will focus on keeping you up-to-date with new and appetizing updates to Azure cloud platform
 * [Microsoft Technical Events](https://www.microsoft.com/en-gb/developers/events/) - Curated list of all up and coming Microsoft Events, Including Azure Bitesize Learning series, ran by our very own Simon Thurman. 
-* [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
+* [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, interview and much more related to Azure and other Microsoft services
 * [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
 * [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics
-* [Microsoft Ignite | The Tour](https://www.microsoft.com/en-gb/ignite-the-tour/) - Join fellow developers and tech professionals in a city near you to learn alongside experts. 
+* [Microsoft Ignite | The Tour](https://www.microsoft.com/en-gb/ignite-the-tour/) - Join fellow developers and tech professionals in a city near you to learn alongside experts.
+* [Global Azure Bootcamp](https://global.azurebootcamp.net/) - A yearly free conference that is held in cities around the world bringing developers and tech professionals together to learn all things Azure
 
 ### DevOps
 
@@ -113,7 +114,7 @@ Covers recent key news and an in-depth topic each week
 * [TGI Kubernetes by Heptio](https://www.youtube.com/channel/UCjQU5ZI2mHswy7OOsii_URg/videos) - Huge amount of videos on Kubernetes
 * [Hands-On:Kubernetes BootCamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html) - By the end of this bootcamp you will understand what Kubernetes does. You will also learn how to deploy, scale, update and debug containerized applications on a Kubernetes cluster using an interactive online terminal
 * [Katacoda Labs](https://katacoda.com/courses/kubernetes) - Learn Kubernetes using Interactive Browser-Based Scenarios
-* [Microsoft LEarning Series on Kubernetes](https://aka.ms/aksprep) - Good comprehensive learning series. Appropriate for beginners
+* [Microsoft Learning Series on Kubernetes](https://aka.ms/aksprep) - Good comprehensive learning series. Appropriate for beginners
 
 
 ### Architecture
@@ -133,7 +134,7 @@ Covers recent key news and an in-depth topic each week
 
 ### Azure Free Account
 
-A list of usefull links explaining about the common doubts related to Azure Free Account:
+A list of useful links explaining about the common doubts related to Azure Free Account:
 * [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-us/free/)
 * [https://azure.microsoft.com/en-us/free/free-account-faq/](https://azure.microsoft.com/en-us/free/free-account-faq/)
 * [https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account](https://docs.microsoft.com/en-us/azure/billing/billing-create-free-services-included-free-account)
