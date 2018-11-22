@@ -98,6 +98,7 @@ Covers recent key news and an in-depth topic each week
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, intervew and much more related to Azure and other Microsoft services
 * [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
 * [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics
+* [Microsoft Ignite | The Tour](https://www.microsoft.com/en-gb/ignite-the-tour/) - Join fellow developers and tech professionals in a city near you to learn alongside experts. 
 
 ### DevOps
 
