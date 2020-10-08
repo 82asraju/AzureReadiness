@@ -9,29 +9,12 @@ Feel free to contribute !
 * [Microsoft on EDX](https://www.edx.org/school/microsoft) - Free online courses from Microsoft at EDX
 Start watching as a beginner and finish up as the master
 
-## Ignite 2018
+## Ignite 2020
 
-* [Ignite Home](https://aka.ms/Ignite2018) - Indepth video sessions from September 2018 Ignite Conference. Latest feature annoucements.  See more detailed curated list below for relevant capabilities. 
-
-   * [Azure Governance](https://aka.ms/Ignite2018/AzureGovernance)
-   * [IaaS](https://aka.ms/Ignite2018/AzureIaaS)
-   * [Azure Integration](https://aka.ms/Ignite2018/AzureIntegration)
-   * [Azure Kubernetes](https://aka.ms/Ignite2018/AzureKubernetes)
-   * [Azure Migration](https://aka.ms/Ignite2018/AzureMigration)
-   * [Azure Monitor](https://aka.ms/Ignite2018/AzureMonitor)
-   * [Azure NetApp Files](https://aka.ms/Ignite2018/AzureNetAppFiles)
-   * [Azure Networking](https://aka.ms/Ignite2018/AzureNetworking)
-   * [Azure Operations](https://aka.ms/Ignite2018/AzureOperations)
-   * [SAP on Azure](https://aka.ms/Ignite2018/AzureSAP)
-   * [Azure Security and Monitoring](https://aka.ms/Ignite2018/AzureSecurityAndManagement)
-   * [Serverless](https://aka.ms/Ignite2018/AzureServerless)
-   * [Azure Storage](https://aka.ms/Ignite2018/AzureStorage)
-   * [Windows Virtual Desktop on Azure](https://aka.ms/Ignite2018/WindowsVirtualDesktop)
+* [Ignite Home]https://myignite.microsoft.com/home) - Indepth video sessions from September 2020 Ignite Conference. Latest feature annoucements.  See more detailed curated list below for relevant capabilities. 
    
- * [Ignite Book of Updates](https://aka.ms/ignite-envision2018) - Summary paper of all technical updates annouced at Microsoft Ignite 18 - with URL links
+ * [Ignite Book of Updates](https://news.microsoft.com/ignite-2020-book-of-news/) - Summary paper of all technical updates annouced at Microsoft Ignite 20 - with URL links
  
- * [Ignite Session Download Tool](https://gallery.technet.microsoft.com/Ignite-2016-Slidedeck-and-296df316) - A Great way to bulk download videos and slide decks from Ignite is through this PowerShell script
-
 
 ## Full List
 
@@ -57,6 +40,7 @@ Covers recent key news and an in-depth topic each week
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Mature weekly video series, Scott Hanselman, Donovan Brown, or Lara Rubbelke host the engineers who build Azure, demo it, answer questions, and share insights
 * [Azure Tuesdays with Corey](https://channel9.msdn.com/Shows/Tuesdays-With-Corey) - Corey Sanders answers your questions about Microsoft Azure - Virtual Machines, Web Sites, Mobile Services, Dev/Test etc. If you have a question, Corey will find the answer!
 * [Azure InfoHub](https://azureinfohub.azurewebsites.net/) - Mark this as your homepage! 
+* [AzUpdate](https://aka.ms/AzUpdateShow) - Weekly live streamed show by the Cloud Advocates on the latest news from Azure
 
 
 ### Azure Workshops | Demos | Labs | Deploy
@@ -98,7 +82,6 @@ Covers recent key news and an in-depth topic each week
 * [Channel9](https://channel9.msdn.com/) - Microsoft Channel with videos, screencasts, interview and much more related to Azure and other Microsoft services
 * [Microsoft Mechanics](https://www.youtube.com/user/OfficeGarageSeries) - The official tech show from Microsoft that covers your favorite tech and news across Microsoft
 * [The complete guide to the Azure Essentials](https://www.youtube.com/playlist?list=PLXtHYVsvn_b8xpydYGuVR0b7gWu4JJfRh) - How much Azure you can learn in 5 to 6 minutes? A lot. Matt McSpirit is your guide through identity, compute, data, DevOps, and Azure for AWS Professionals. Each video is packed with in-product experiences and illustrative motion graphics
-* [Microsoft Ignite | The Tour](https://www.microsoft.com/en-gb/ignite-the-tour/) - Join fellow developers and tech professionals in a city near you to learn alongside experts.
 * [Global Azure Bootcamp](https://global.azurebootcamp.net/) - A yearly free conference that is held in cities around the world bringing developers and tech professionals together to learn all things Azure
 
 ### DevOps
